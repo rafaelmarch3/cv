@@ -1,0 +1,44 @@
+
+/* TAG SELECTOR */
+body {
+    background-color: rgb(208, 230, 233);
+}
+
+hr {
+    background-color:rgb(208, 230, 233);
+    border-color: red;
+    border-width: 5px;
+    border-style: dotted none none;
+    height: 0px;
+    width: 10%
+}
+
+img:hover {
+    background-color: red
+}
+
+h1 {
+    color: rgb(255, 0, 157);
+}
+
+h3 {
+    color: rgba(0, 81, 255, 0.719);
+}
+
+.profile {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+}
+
+.paperfig {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+}
+
+#heading {
+    color: blue
+}
